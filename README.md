@@ -1,2 +1,2 @@
 # gmail-gas
-Forward Gmail inbox to Discord using Google app script 
+Forward Gmail inbox to Telegram using Google app script 
